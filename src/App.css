@@ -1,0 +1,20 @@
+#wordslist {
+    list-style-type: none;
+}
+
+.bordered {
+    border: 1px solid black;
+}
+
+.gridcell {
+    border: 5px solid white;
+    text-align: center;
+}
+
+.foundWord {
+    color: lightgreen;
+}
+
+.missedWord {
+    color: red;
+}
